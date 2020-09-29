@@ -1,1 +1,2 @@
-# 1st-Repository
+# Learning Journal 
+29/09/20
